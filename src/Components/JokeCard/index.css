@@ -1,0 +1,27 @@
+
+.result {
+    color: #29ABE2;
+    font-size: 30px;
+    margin: 75px;
+    border-top: 5px dashed #29ABE2;
+    border-right: 5px dashed #29ABE2;
+    border-left: 5px solid #29ABE2;
+    border-bottom: 5px solid #29ABE2;    
+    padding: 50px 50px;
+}
+
+#shape-1 {
+    position: absolute;
+    margin-left: -450px;
+    margin-top: 15px;
+    background-color: #fff;
+    padding: 10px;
+}
+
+#shape-2 {
+    position: absolute;
+    margin-left: 380px;
+    margin-top: -125px;
+    background-color: #fff;
+    padding: 10px;
+}

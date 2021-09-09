@@ -1,0 +1,44 @@
+.tabHeader {
+    background-color: #FFF2EE;
+    padding: 30px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.22);
+    margin-bottom: 27px;
+}
+
+.form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.label {
+    margin:12px;
+    font-size: 13px;
+    color: #16303C;
+    line-height: 1.5380em;
+    margin-left: 32px;
+}
+
+.input {
+    background-color: #fff;
+    border: 1px solid #B3BEC2;
+    border-radius: 3px;
+    padding-left: 10px;
+    width: 200px;
+    height: 35px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.22);
+}
+
+select {
+    height: 40px !important;
+}
+
+button {
+    background-color: #F15A24;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 160px;
+    height: 35px;
+    margin-left: 97px;
+    cursor: pointer;
+}
